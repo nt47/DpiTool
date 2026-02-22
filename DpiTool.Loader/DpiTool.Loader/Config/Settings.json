@@ -1,0 +1,19 @@
+{
+  "Filter": {
+    "ProcessNames": [
+      "Notepad",
+      "notepad++",
+      "Taskmgr",
+      "procexp64",
+      "ida",
+      "ida64",
+      "x32dbg",
+      "x64dbg",
+      "DpiTool.Loader",
+      "Procmon64",
+      "rundll32",
+      "DxForm",
+      "*"
+    ]
+  }
+}
