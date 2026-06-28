@@ -7,7 +7,7 @@ a stupid way to fix my laptop dpi bugs
 >
 > <h1><span style="color:red;">Auto-run</span></h1>
 >
-> Run do.bat at the first time,Allow the UAC popup
+> Run do.bat at the first time,Allow the UAC popup #：hmm, a little bug in this file
 >
 > Or edit regedit manually as shown in the figure 1（if with Anti-Virus you bought）：
 >
@@ -19,7 +19,7 @@ a stupid way to fix my laptop dpi bugs
 
 > [!IMPORTANT]
 >
-> avoid infect system components
+> avoid infection of system components 
 
 | rundll32 |      |      |
 | -------- | ---- | ---- |
