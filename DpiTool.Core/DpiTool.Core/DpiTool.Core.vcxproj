@@ -76,11 +76,11 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <TargetName>$(ProjectName).X64</TargetName>
-    <OutDir>$(SolutionDir)\bin</OutDir>
+    <OutDir>$(SolutionDir)\bin\</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <TargetName>$(ProjectName).X86</TargetName>
-    <OutDir>$(SolutionDir)\bin</OutDir>
+    <OutDir>$(SolutionDir)\bin\</OutDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

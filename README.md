@@ -7,7 +7,7 @@ a stupid way to fix my laptop dpi bugs
 >
 > <h1><span style="color:red;">Auto-run</span></h1>
 >
-> Run do.bat at the first time,Allow the UAC popup #：hmm, a little bug in this file
+> Run do.bat at the first time,Allow the UAC popup 
 >
 > Or edit regedit manually as shown in the figure 1（if with Anti-Virus you bought）：
 >
